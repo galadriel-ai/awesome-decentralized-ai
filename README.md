@@ -17,17 +17,43 @@ A list of tech, applications and resources in Decentralized AI.
 
 ## Layer 1 blockchains
 
-* [Galadriel]
+* [Galadriel](https://galadriel.com/): first L1 for AI
 
 ## Applications
 
 
+
 ## Training
+
+* [Bittensor](https://bittensor.com/): decentralized training marketplace
+* [Gensyn](https://www.gensyn.ai/): ML compute provider
+
 ## Inference
-## General purpose compute
-## Inference verification
-## Data storage
-- vector db
+
+* [ezkl](https://github.com/zkonduit/ezkl): ZKML inference library
+* [Giza](https://www.gizatech.xyz/): ZKML research company
+* [Modulus Labs](https://www.modulus.xyz/): ZKML research company
+* [OPML](https://github.com/ora-io/opml): optimistic ML inference library
+* [ORA](https://www.ora.io/): OPML and ZKML research company
+
+
+## General purpose GPU
+
+* [io.net](https://io.net/): decentralized GPU compute
+* [Render Network](https://rendernetwork.com/): decentralized GPU compute
+
+
+## RAG
+
+* [Dria](https://dria.co/): public repositories of knowledge, embedded
+
+## Data
+
+* [Ocean protocol](https://oceanprotocol.com): monetizing datasets
+
+## Storage
+
+
  
 
 # Contributing
@@ -35,6 +61,7 @@ A list of tech, applications and resources in Decentralized AI.
 To add anything, please open an issue or pull request.
 
 Rules: 
+* Within a section, projects are ordered alphabetically.
 * Anything you add must have an existing public website, repository and/or docs. The page should be descriptive enough that it is possible to understand what the project is about, and the project should have more substance than just an announcement.
 * The project should be strongly relevant to Decentralized AI.
 * No waitlist-only products.
