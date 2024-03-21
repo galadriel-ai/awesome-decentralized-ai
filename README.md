@@ -20,23 +20,30 @@ A list of tech, applications and resources in Decentralized AI.
 * [Fetch.ai](https://fetch.ai/): network for AI agents
 * [Galadriel](https://galadriel.com/): network for AI apps and agents
 * [Morpheus](https://github.com/MorpheusAIs/Docs): network for AI agents
+* [Vanna](https://www.vannalabs.ai/): network for AI
 
 ## Applications
-* [Numerai](https://numer.ai/): Decentralized stock market prediction competitions
+* [Numerai](https://numer.ai/): decentralized stock market prediction competitions
+* [Worldcoin](https://worldcoin.org/): decentralized human identity verification
 
 
 ## Training
 
 * [Bittensor](https://bittensor.com/): decentralized training marketplace
 * [Gensyn](https://www.gensyn.ai/): ML compute provider
+* [Allora](https://www.allora.network/): decentralized model development network
 
 ## Inference
 
-* [ezkl](https://github.com/zkonduit/ezkl): ZKML inference library
+* [ddkang/zkml](https://github.com/ddkang/zkml): ZKML inference library (unmaintained)
 * [Giza](https://www.gizatech.xyz/): ZKML research company
+    * [gizatechxyz/orion](https://github.com/gizatechxyz/orion): ZKML inference library
 * [Modulus Labs](https://www.modulus.xyz/): ZKML research company
-* [OPML](https://github.com/ora-io/opml): optimistic ML inference library
 * [ORA](https://www.ora.io/): OPML and ZKML research company
+    * [ora-io/opml](https://github.com/ora-io/opml): Ora's optimistic ML inference library
+    * [socathie/circomlib-ml](https://github.com/socathie/circomlib-ml): ZKML circuit library (by Chieft Scientist at ORA)
+* [Ritual](https://docs.ritual.net/): on-chain inference provider
+* [zkonduit/ezkl](https://github.com/zkonduit/ezkl): ZKML inference library
 
 
 ## General purpose GPU
@@ -51,10 +58,9 @@ A list of tech, applications and resources in Decentralized AI.
 
 ## Data
 
+* [Fraction](https://fractionai.xyz/): decentralized data annotation provider
 * [Grass](https://www.getgrass.io/): decentralized scraping network for training data
 * [Ocean protocol](https://oceanprotocol.com): monetizing datasets
-
-## Storage
 
 
 ## Standards
