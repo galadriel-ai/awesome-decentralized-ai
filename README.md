@@ -17,10 +17,12 @@ A list of tech, applications and resources in Decentralized AI.
 
 ## Layer 1 blockchains
 
-* [Galadriel](https://galadriel.com/): first L1 for AI
+* [Fetch.ai](https://fetch.ai/): network for AI agents
+* [Galadriel](https://galadriel.com/): network for AI apps and agents
+* [Morpheus](https://github.com/MorpheusAIs/Docs): network for AI agents
 
 ## Applications
-
+* [Numerai](https://numer.ai/): Decentralized stock market prediction competitions
 
 
 ## Training
@@ -49,12 +51,19 @@ A list of tech, applications and resources in Decentralized AI.
 
 ## Data
 
+* [Grass](https://www.getgrass.io/): decentralized scraping network for training data
 * [Ocean protocol](https://oceanprotocol.com): monetizing datasets
 
 ## Storage
 
 
+## Standards
+
+* [Agent Protocol](https://agentprotocol.ai/): standard interface for AI agents
  
+
+## TBD - not categorized
+* [SingularityNET](https://singularitynet.io/) - L1?
 
 # Contributing
 
