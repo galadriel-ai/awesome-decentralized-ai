@@ -15,16 +15,24 @@
 
 A list of tech, applications and resources in Decentralized AI.
 
-## Layer 1 blockchains
+## Blockchains
 
+* [0G](https://0g.ai/): data availability chain for AI
 * [Fetch.ai](https://fetch.ai/): network for AI agents
 * [Galadriel](https://galadriel.com/): network for AI apps and agents
 * [Morpheus](https://github.com/MorpheusAIs/Docs): network for AI agents
 * [Vanna](https://www.vannalabs.ai/): network for AI
 
 ## Applications
+* [AI Arena](https://gtarena.super.site/): a game where user-trained AIs fight
+* [Botto](https://twitter.com/bottoproject): a decentralized autonomous artist
 * [Numerai](https://numer.ai/): decentralized stock market prediction competitions
 * [Worldcoin](https://worldcoin.org/): decentralized human identity verification
+
+Application platforms:
+
+* [MyShell](https://myshell.ai/): AI companion and app platform
+* [SingularityNET](https://singularitynet.io/) - AI app platform
 
 
 ## Training
@@ -48,13 +56,15 @@ A list of tech, applications and resources in Decentralized AI.
 
 ## General purpose GPU
 
+* [Exabits](https://www.exabits.ai/): decentralized GPU compute
 * [io.net](https://io.net/): decentralized GPU compute
 * [Render Network](https://rendernetwork.com/): decentralized GPU compute
 
 
-## RAG
-
-* [Dria](https://dria.co/): public repositories of knowledge, embedded
+## RAG and tools
+* [Dria](https://dria.co/): public repositories of knowledge for RAG
+* [NeverMined](https://nevermined.io/): decentralized AI payments protocol
+* [Shinkai](https://www.shinkai.com/): embedded file system for RAG (VectorFS) and tool provider for LLM apps
 
 ## Data
 
@@ -66,10 +76,10 @@ A list of tech, applications and resources in Decentralized AI.
 ## Standards
 
 * [Agent Protocol](https://agentprotocol.ai/): standard interface for AI agents
- 
 
-## TBD - not categorized
-* [SingularityNET](https://singularitynet.io/) - L1?
+
+## Related lists
+* [awesome-ora](https://github.com/ora-io/awesome-ora)
 
 # Contributing
 
