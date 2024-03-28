@@ -46,6 +46,7 @@ Application platforms:
 * [ddkang/zkml](https://github.com/ddkang/zkml): ZKML inference library (unmaintained)
 * [Giza](https://www.gizatech.xyz/): ZKML research company
     * [gizatechxyz/orion](https://github.com/gizatechxyz/orion): ZKML inference library
+* [Hyperspace](https://aios.network/): peer-to-peer AI network
 * [Modulus Labs](https://www.modulus.xyz/): ZKML research company
 * [ORA](https://www.ora.io/): OPML and ZKML research company
     * [ora-io/opml](https://github.com/ora-io/opml): Ora's optimistic ML inference library
