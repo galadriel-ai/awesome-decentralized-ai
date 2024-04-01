@@ -52,6 +52,7 @@ Application platforms:
     * [ora-io/opml](https://github.com/ora-io/opml): Ora's optimistic ML inference library
     * [socathie/circomlib-ml](https://github.com/socathie/circomlib-ml): ZKML circuit library (by Chieft Scientist at ORA)
 * [Ritual](https://docs.ritual.net/): on-chain inference provider
+	* [ritual-net/infernet-ml](https://github.com/ritual-net/infernet-ml): Python SDK for ML inference workflows
 * [zkonduit/ezkl](https://github.com/zkonduit/ezkl): ZKML inference library
 
 
