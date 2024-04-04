@@ -20,6 +20,7 @@ A list of tech, applications and resources in Decentralized AI.
 * [0G](https://0g.ai/): data availability chain for AI
 * [Fetch.ai](https://fetch.ai/): network for AI agents
 * [Galadriel](https://galadriel.com/): network for AI apps and agents
+* [Nim](https://nim.network/): AI gaming chain
 * [Morpheus](https://github.com/MorpheusAIs/Docs): network for AI agents
 * [Vanna](https://www.vannalabs.ai/): network for AI
 
