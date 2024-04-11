@@ -41,6 +41,7 @@ Application platforms:
 * [Bittensor](https://bittensor.com/): decentralized training marketplace
 * [Gensyn](https://www.gensyn.ai/): ML compute provider
 * [Allora](https://www.allora.network/): decentralized model development network
+* [Akash Network](https://akash.network): decentralized & permissionless general compute provider (supports GPUs)
 
 ## Inference
 
