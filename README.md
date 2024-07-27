@@ -59,9 +59,11 @@ Application platforms:
 
 ## General purpose GPU
 
+* [Akash](https://akash.network): decentralized GPU compute
 * [Exabits](https://www.exabits.ai/): decentralized GPU compute
 * [io.net](https://io.net/): decentralized GPU compute
 * [Render Network](https://rendernetwork.com/): decentralized GPU compute
+  
 
 
 ## RAG and tools
