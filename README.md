@@ -79,6 +79,7 @@ Application platforms:
 ## Standards
 
 * [Agent Protocol](https://agentprotocol.ai/): standard interface for AI agents
+* [Hashgraph Online (HOL)](https://hol.org): trust engine for the agentic internet — universal agent registry (HCS-14 UAIDs), trustless P2P communication (HCS-10), and cross-protocol bridging on Hedera. 187K+ verified agents, 33M+ daily operations. Open-source SDKs in TypeScript, Go, and Python.
 
 
 ## Related lists
