@@ -67,6 +67,7 @@ Application platforms:
 ## RAG and tools
 * [Dria](https://dria.co/): public repositories of knowledge for RAG
 * [NeverMined](https://nevermined.io/): decentralized AI payments protocol
+* [OZC](https://github.com/joemekw-code/ozc): on-chain information trust layer for AI — lets individuals stake on URLs/claims so AI agents can filter by community-verified trust scores
 * [Shinkai](https://www.shinkai.com/): embedded file system for RAG (VectorFS) and tool provider for LLM apps
 
 ## Data
