@@ -79,6 +79,7 @@ Application platforms:
 ## Standards
 
 * [Agent Protocol](https://agentprotocol.ai/): standard interface for AI agents
+* [Voidly Agent Relay](https://voidly.ai/agents): federated E2E encrypted agent-to-agent messaging, self-hostable relay nodes, Signal Protocol + ML-KEM-768 post-quantum hybrid, metadata-stripping
 
 
 ## Related lists
