@@ -79,6 +79,7 @@ Application platforms:
 ## Standards
 
 * [Agent Protocol](https://agentprotocol.ai/): standard interface for AI agents
+* [Agent Registry](https://github.com/Brooks1003/base-agent-registry): on-chain identity, capability, reputation, staking, and distributed deployment standard for autonomous AI agents (ERC #1757)
 
 
 ## Related lists
