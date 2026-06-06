@@ -69,6 +69,7 @@ Application platforms:
 * [NeverMined](https://nevermined.io/): decentralized AI payments protocol
 * [Shinkai](https://www.shinkai.com/): embedded file system for RAG (VectorFS) and tool provider for LLM apps
 
+* [TWZRD Agent Intel](https://intel.twzrd.xyz): verifiable trust receipts for AI agents — cryptographically signed attestations proving Solana wallet identity and trust score; MCP-native (streamable-http, zero install)
 ## Data
 
 * [Fraction](https://fractionai.xyz/): decentralized data annotation provider
