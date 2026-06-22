@@ -83,6 +83,7 @@ Application platforms:
 
 ## Related lists
 * [awesome-ora](https://github.com/ora-io/awesome-ora)
+* [Own Your Mind](https://ownyourmind.ai): independent research and dual Freedom/Returns scores for 40+ decentralised AI projects, with on-chain integrity checks
 
 # Contributing
 
