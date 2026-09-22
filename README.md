@@ -44,6 +44,7 @@ Application platforms:
 
 ## Inference
 
+* [WERR](https://github.com/pCwOrM/werr): Machine-native zero-tensor System-1 decision engine synthesizing deterministic reflex arcs from 24-byte coordinate seeds; designed for verifiable on-chain AI oracles (EVM/Solana) and edge inference (DOI: [10.5281/zenodo.22867426](https://doi.org/10.5281/zenodo.22867426)).
 * [ddkang/zkml](https://github.com/ddkang/zkml): ZKML inference library (unmaintained)
 * [Giza](https://www.gizatech.xyz/): ZKML research company
     * [gizatechxyz/orion](https://github.com/gizatechxyz/orion): ZKML inference library
