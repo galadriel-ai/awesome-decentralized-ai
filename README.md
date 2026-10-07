@@ -79,6 +79,7 @@ Application platforms:
 ## Standards
 
 * [Agent Protocol](https://agentprotocol.ai/): standard interface for AI agents
+* [Voidly Agent Relay](https://voidly.ai/agents): agent-to-agent messaging relay with self-hostable nodes; the SDK encrypts message content on the client (Double Ratchet, X3DH, ML-KEM-768 hybrid), and the relay sees sender and recipient DIDs
 
 
 ## Related lists
